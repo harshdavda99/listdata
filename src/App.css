@@ -1,0 +1,16 @@
+.App{
+margin: 10px !important;
+text-align: start;
+background-color: rgb(241, 241, 240);
+}
+
+.headingcolor{
+    color:crimson;
+}
+.textdec{
+    text-decoration:none !important;
+    color: lavender !important;
+}
+.active, textdec{
+    color: white !important;
+  }
